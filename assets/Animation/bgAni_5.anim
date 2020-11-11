@@ -1,0 +1,107 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bgAni_5",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "手": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 3
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -8
+            }
+          ]
+        }
+      },
+      "闪电1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                107.419,
+                56.859,
+                0
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                79.741,
+                58.464,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "闪电2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                158.882,
+                22.637,
+                0
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                124.277,
+                37.549,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "脚": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": -27.977
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -8
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

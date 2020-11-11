@@ -1,0 +1,191 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bgAni_7",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 6,
+  "speed": 0.3,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "人物": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -71.132,
+                25.106,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -108.813,
+                65.389,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -61.942,
+                15.916,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "右手": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -99.971,
+                77.26000000000002,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -141.971,
+                125.26,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -99.971,
+                77.26,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": -40
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "左手": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -71.234,
+                103.313,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -106.234,
+                146.313,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -71.234,
+                103.313,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 40
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "水草": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                35.272,
+                -386.821,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                46.944,
+                -392.656,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                60.561,
+                -384.875,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "闪电1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "闪电2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
